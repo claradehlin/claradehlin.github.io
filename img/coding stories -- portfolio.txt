@@ -1,0 +1,25 @@
+﻿Coding Stories – Portfolio
+
+
+Other Story Ideas: 
+* Capstone project
+* Working together with other programmers
+* Dev Mountain boot camp transition from college/jobs that did not challenge me
+* Connecting front end with back-end (CSS, HTML, javascript)
+
+
+1. I grew up in a highly achievement-oriented household. The bounds of my intellectual ability felt confined by the hand I had been dealt. I had been dealt a solid hand, per se, but was simultaneously quite aware of the areas I was lacking in. I wanted to be the very best. Given an IQ test at the age of seven, I experienced the labels that came along with another’s classification of your intellect firsthand. Honors kid year after year, spelling bee winner, the first to pass off times tables in the class, memorizing the Gettysburg Address and all the presidents in order at ten years old, etc… all evidence that I held close to my chest proving to myself that I could be something. Unfortunately, this kind of competitive analysis does not bring lasting security. There will always be someone smarter, more experienced, and more successful than you are. 
+         Coming into coding, I knew ahead of time that it was a largely logical career path. I was fully prepared to be competing again with others’ brains. It could not have been more different. My beginning cohort in my first boot camp taught me that coding is about perseverance. It’s about failing over and over again and the grit to keep going. No one gets to escape this part, no matter how quick-witted. It is the inevitability of code- errors, bugs, and unexpected detours. But the final satisfaction and relief that you get after fixing a problem, no matter how small, is unmatched. 
+
+
+1.         Without warning, my code isn’t working. It won’t run.
+        I review what I have written. Read it out loud, as if there is a rubber duck listening patiently to what I have to say. I spot an inconsistency in my syntax, highlighted by the infamous red squiggle. Fix it.
+        Run my code again. Hold my breath.
+        A different error shoots across the terminal. God dammit.
+        Reread again, spotting inefficiencies and slight imperfections, none of which would be causing my problem. I fix them anyway.
+        I have someone superior to me in experience look at my code. Confusion grows. It should be working.
+        I take a break. Drink some water. Deep breaths.
+        Stay up all night staring until my eyes get blurry and I can’t read the screen.
+        Sleep. Dreams translated in javascript. Brain racing through subconscious visions.
+        I wake up. Eat a little. Sit down with fresh eyes.
+        I FORGOT A SEMICOLON ARE YOU FUCKING KIDDING ME.
